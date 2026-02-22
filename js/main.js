@@ -43,11 +43,12 @@ document.querySelectorAll('.fade-in').forEach((el) => observer.observe(el));
 
 // Citation map fullscreen toggle
 const mapOverlay = document.getElementById('citation-map-overlay');
-const mapFullscreenBtn = document.querySelector('.citation-map-fullscreen');
+const mapLink = document.getElementById('citation-map-link');
 const mapCloseBtn = document.querySelector('.citation-map-close');
 
-if (mapFullscreenBtn && mapOverlay) {
-    mapFullscreenBtn.addEventListener('click', () => {
+if (mapLink && mapOverlay) {
+    mapLink.addEventListener('click', (e) => {
+        e.preventDefault();
         mapOverlay.classList.add('active');
         document.body.style.overflow = 'hidden';
     });
