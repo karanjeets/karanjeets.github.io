@@ -4,11 +4,7 @@
 
 ## About
 
-Karanjeet Singh is a Staff Machine Learning Engineer at Apple, where he focuses on building large-scale machine learning systems for information extraction and curation. He is part of the core team behind Apple Intelligence, focusing on pre-training data quality and curation for the foundation models that power AI features across Apple devices, as well as MM1, Apple's multimodal model family.
-
-He has over a decade of experience in AI and ML, with a focus on information extraction and retrieval at web scale. Previously, he worked as a Machine Learning Researcher at NASA Jet Propulsion Laboratory as part of the DARPA Memex program, where he worked on crawling and search technologies for the deep and dark web. At JPL, he also contributed to the Mars Target Encyclopedia, an NLP system for extracting compositional knowledge from Mars science literature.
-
-He is an elected member of the Apache Software Foundation, a committer and PMC member on Apache Nutch, and co-creator of Sparkler, a distributed web crawler on Apache Spark. He holds a Master's in Computer Science from USC Viterbi School of Engineering.
+Karanjeet Singh is a Staff Machine Learning Engineer at Apple, where he focuses on building large-scale machine learning systems for information extraction and curation.
 
 ## Links
 
@@ -31,4 +27,4 @@ He is an elected member of the Apache Software Foundation, a committer and PMC m
 
 - Apache Nutch — Committer & PMC Member. A highly extensible and scalable open-source web crawler built on Apache Hadoop.
 - Apache DRAT — Committer & PMC Member. A Distributed Release Audit Tool that automates license header checking and code compliance analysis.
-- Sparkler — Co-creator. A distributed web crawler on Apache Spark.
+- Sparkler — Co-Inventor. A distributed web crawler on Apache Spark.
