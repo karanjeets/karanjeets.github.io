@@ -115,6 +115,7 @@ h3 {
 }
 
 .navbar .container {
+    max-width: 1160px;
     display: flex;
     align-items: center;
     justify-content: space-between;

@@ -1,17 +1,42 @@
 # Karanjeet Singh
 
-> Staff Machine Learning Engineer at Apple. Founding member of Apple Intelligence.
-
 ## About
 
-Karanjeet Singh is a Staff Machine Learning Engineer at Apple, where he focuses on building large-scale machine learning systems for information extraction and curation.
+Karanjeet Singh is a Staff Machine Learning Engineer at Apple, where he builds large-scale machine learning systems for search and data-centric artificial intelligence. His early work focused on AppleBot — Apple's web crawler, among the top ten AI crawlers on the web — and on information extraction systems that power Spotlight and Siri. As one of the earliest contributors to the Foundation Models behind Apple Intelligence, he has, since 2023, been leading multiple efforts in pre-training data quality and curation.
+
+Before Apple, he was a Machine Learning Researcher at NASA's Jet Propulsion Laboratory, where he worked on the DARPA Memex program under the supervision of Dr. Chris Mattmann, building search technologies for the deep and dark web. He also contributed to the Mars Target Encyclopedia, applying text mining to extract scientific findings from planetary science literature, and to Polar Deep Insights, an EarthCube-funded project surfacing scientific data from polar repositories.
+
+He received his master's degree from the University of Southern California, supported by a Dean's Master's Fellowship. There, he co-invented Sparkler, a distributed web crawler built on Apache Spark with an Apache Solr backend, and contributed to other Apache projects such as Nutch — work that led to his election as a member of the Apache Software Foundation.
+
+## Research Areas
+
+- Foundation models and large language model (LLM) pretraining
+- Pretraining data quality and curation; data-centric AI
+- Information extraction and information retrieval
+- Web-scale and distributed crawling
+- Natural language processing
+- Search systems (AppleBot, Spotlight, Siri)
+
+## Affiliations
+
+- Apple — Staff Machine Learning Engineer (2017–present)
+- The Apache Software Foundation — Member; Committer & PMC Member (2016–present)
+- NASA Jet Propulsion Laboratory — Machine Learning Researcher, DARPA Memex (2016–2017)
+- University of Southern California — M.S. in Computer Science (2015–2017)
 
 ## Links
 
 - Website: https://karanjeetsingh.ai/
 - Google Scholar: https://scholar.google.com/citations?user=T9IoM-8AAAAJ&hl=en
+- ORCID: https://orcid.org/0009-0009-4923-2244
+- DBLP: https://dblp.org/pid/372/2669
+- DBLP (secondary): https://dblp.org/pid/208/6988-2
+- Semantic Scholar: https://www.semanticscholar.org/author/Karanjeet-Singh/2291269010
+- ACL Anthology: https://aclanthology.org/people/karanjeet-singh/
+- OpenReview: https://openreview.net/profile?id=~Karanjeet_Singh1
 - GitHub: https://github.com/karanjeets
 - LinkedIn: https://www.linkedin.com/in/singhkaranjeet/
+- X (Twitter): https://x.com/_karanjeet
 - Apache: https://people.apache.org/phonebook.html?uid=karanjeet
 
 ## Selected Publications
@@ -27,4 +52,34 @@ Karanjeet Singh is a Staff Machine Learning Engineer at Apple, where he focuses 
 
 - Apache Nutch — Committer & PMC Member. A highly extensible and scalable open-source web crawler built on Apache Hadoop.
 - Apache DRAT — Committer & PMC Member. A Distributed Release Audit Tool that automates license header checking and code compliance analysis.
-- Sparkler — Co-Inventor. A distributed web crawler on Apache Spark.
+- Sparkler — Co-Inventor. A distributed web crawler built on Apache Spark with an Apache Solr backend.
+
+## Professional Service
+
+- Reviewer, NeurIPS 2026
+- Reviewer, ACL Rolling Review (October 2025)
+- Reviewer, AINL (Artificial Intelligence and Natural Language) 2025, 2026
+- Reviewer, ESIP Lab 2024 (AI/ML-driven environmental research proposals)
+
+## Talks & Invited Engagements
+
+- Spark Summit East 2017 — Invited to present Sparkler at the main Apache Spark conference
+- EarthCube All Hands 2017 — Invited talk on deep and scientific web search analytics
+- ESIP Winter Meeting 2017 — Invited poster on mining insights from polar data repositories
+- ApacheCon North America 2016 — Invited talk on DRAT, large-scale software license analysis
+- ApacheCon Big Data Europe 2016 — Invited talk on Sparkler and distributed crawling, Seville
+
+## Honors & Awards
+
+- Elected Member, The Apache Software Foundation — for sustained open-source contributions
+- DARPA Memex Research Group — part of the NASA JPL team, one of 17 groups funded nationally
+- EarthCube Early Career Travel Grant 2017
+- USC Dean's Master's Fellowship — merit-based, awarded to the top 2% of incoming students
+- DXC Technology 2012 — Top 10 national finalist for a technology white paper
+- Microsoft Imagine Cup 2009 — Top 4 national finalist in India
+- Dell Social Innovation Competition 2009 — Worldwide semi-finalist, UT Austin
+- Indian Computing Olympiad 2007 — selected among the top 244 students in India
+
+## Education
+
+- M.S. in Computer Science, University of Southern California (2015–2017), Dean's Master's Fellowship
