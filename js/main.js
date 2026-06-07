@@ -15,10 +15,18 @@ navLinks.querySelectorAll('a').forEach((link) => {
 
 // Smooth scroll with offset for fixed nav
 document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+    if (anchor.id === 'citation-map-link') return; // has its own handler
     anchor.addEventListener('click', (e) => {
-        e.preventDefault();
-        const target = document.querySelector(anchor.getAttribute('href'));
+        const href = anchor.getAttribute('href');
+        // Bare "#" (e.g. the name in the navbar) scrolls back to the top
+        if (href === '#' || href === '#top') {
+            e.preventDefault();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            return;
+        }
+        const target = document.querySelector(href);
         if (target) {
+            e.preventDefault();
             const offset = 70;
             const top = target.getBoundingClientRect().top + window.scrollY - offset;
             window.scrollTo({ top, behavior: 'smooth' });
